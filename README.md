@@ -10,4 +10,4 @@
 <ul>
   <li>ログイン機能
   <li>会員登録・変更・退会
-  <li>各種Validation
+  <li>入力に対する各種Validation
